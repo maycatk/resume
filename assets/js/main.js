@@ -1,10 +1,10 @@
-/*
-	Visualize by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
+//判断屏幕
+    if (screen && screen.width > 480) {
+  document.write('<script type="text/javascript" src="assets/js/canvas-nest.min.js"><\/script>');
+}
 
 $(function() {
+    
 
 	// Vars.
 		var	$window = $(window),
