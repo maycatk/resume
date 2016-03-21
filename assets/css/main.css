@@ -2010,6 +2010,14 @@
 				ul.icons li:last-child {
 					padding-right: 0;
 				}
+/*添加说明*/
+#detail{
+    display: block;
+    font-size: 12px;
+    color: rgba(77, 96, 123, 0.701961);
+    font-family: HelveticaNeue, Arial, sans-serif;
+    padding-top: 10px;
+}
 
 		ul.actions {
 			cursor: default;
