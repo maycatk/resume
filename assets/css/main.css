@@ -1410,7 +1410,6 @@
 
 	body {
 		background-color: #000;
-/*		background-image: url("../../images/bg.jpg");*/
         background-color: white;
 		background-size: cover;
 		background-position: top center;
@@ -1491,7 +1490,6 @@
 
 		}
 
-/*
 	h1 {
 		font-size: 1.75em;
 	}
@@ -1511,7 +1509,6 @@
 			}
 
 		}
-*/
 
 	h2 {
 		font-size: 1.35em;
