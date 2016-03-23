@@ -1,7 +1,9 @@
 //判断屏幕
-    if (screen && screen.width > 480) {
+    if (screen && screen.width > 780) {
   document.write('<script type="text/javascript" src="assets/js/canvas-nest.min.js"><\/script>');
 }
+  
+//
 
 $(function() {
     
